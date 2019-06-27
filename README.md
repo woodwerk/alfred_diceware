@@ -1,5 +1,13 @@
 # Diceware
-A Python script for creating dice-ware passwords. The menu allows for selection from three different diceware word lists. A randomly selected list of four (4) words is passed to the clipboard.
+A Python script for creating dice-ware passwords. 
 ![workflow](https://github.com/woodwerk/alfred_diceware/blob/master/diceware.png?raw=true)
+
+The menu allows for selection from three different diceware word lists.
+![menu](https://github.com/woodwerk/alfred_diceware/blob/master/diceware_menu.png?raw=true)
+
+A random selection of four (4) words from that list is displayed as a notification and also passed to the clipboard.
+
+![menu](https://github.com/woodwerk/alfred_diceware/blob/master/diceware_notification.png?raw=true)
+
 
 This [PDF](https://github.com/woodwerk/alfred_diceware/blob/master/diceware.pdf) provides a bit more detail on how the workflow functions
